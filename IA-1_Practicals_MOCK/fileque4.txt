@@ -1,0 +1,5 @@
+pink    purple   blue
+grey    black    red
+white   green    orange
+yellow  brown    silver
+golden  maroon   lavender
