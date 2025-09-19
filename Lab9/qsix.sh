@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#(6) Write a shell script to do the following, all in one script:
+#• Print the value of HOME variable
+#• Calculate the following: 23934/44343 using bc command and EOF method
+#• List files in your HOME that start with ‘D’
+#• Filter the line(s) in /etc/passwd that have your username
 echo "The value of home variable is $HOME"
 
 var=$(bc << EOF

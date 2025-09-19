@@ -1,3 +1,13 @@
+QUESTION:(3) A common file type you will encounter in bioinformatics is called a FASTA file. Forexample, few lines of a FASTA file looks like this:
+>seq1
+ATGCTAGCTAGAGGTCTAGG
+>seq2
+TTAGGCATGCATTAAGTCATTA
+(i) Using gawk remove the lines containing >. These are called header lines.
+(ii) Using sed convert the DNA sequence to RNA sequence.
+(iii) Using sed replace seq1 (called the sequence ID) by human_gene.
+
+ANSWER:
 >seq1
 ATGCTAGCTAGAGGTCTAGG
 >seq2
