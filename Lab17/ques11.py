@@ -20,3 +20,24 @@ else:
     print(f"{day:02d}/{month:02d}/{year} is NOT a magic date.")
 
 
+from datetime import datetime
+
+def isMagicDate(day, month, year):
+    try:
+        datetime(year, month, day)
+    except ValueError:
+        return False
+    return day * month == year % 100
+
+def main():
+    print("Magic Dates in the 20th Century (1900–1999):")
+    for year in range(1900, 2000):
+        for month in range(1, 13):
+            for day in range(1, 32):
+                if isMagicDate(day, month, year):
+                    print(f"{day:02d}/{month:02d}/{year} is a magic date")
+
+main()
+
+
+
