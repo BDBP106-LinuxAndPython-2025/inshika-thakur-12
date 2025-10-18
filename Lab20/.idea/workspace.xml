@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9900b2d-7a97-46b0-88ac-1a96bd1d2c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ques2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques3_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques3_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/math_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/string_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab21/ques1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab21/ques2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab21/ques3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab21/ques4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab21/ques5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="349Ao67vLgrbbQAJ6hBvxjMbxQr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ibab/git_test/inshika-thakur-12/Lab20"
+    "last_opened_file_path": "/home/ibab/git_test/inshika-thakur-12/Lab21"
   }
 }]]></component>
   <component name="RunManager">
