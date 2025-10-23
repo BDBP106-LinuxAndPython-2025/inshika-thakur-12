@@ -1,0 +1,1 @@
+func1 is called for 10 times 
