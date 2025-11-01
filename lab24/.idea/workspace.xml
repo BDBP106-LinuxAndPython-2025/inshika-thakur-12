@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1105e82a-0b2a-4b81-a8fc-b5739515741d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ques1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ques9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="34mR0QtT7Tkr5NBYDV2tXJhJbkr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,7 +47,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ibab/git_test/inshika-thakur-12/lab24",
+    "last_opened_file_path": "/home/ibab/python_25/14oct",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
