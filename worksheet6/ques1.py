@@ -87,7 +87,7 @@ class Car:
     @classmethod
     def change_showroom(cls, new_name):
         cls.showroom = new_name
-Car.change_showroom('AutoSpace')
+Car.change_showroom('NewShowroom')
 print(Car.showroom)
 print(Car.__dict__)
 
@@ -98,7 +98,7 @@ Car.__dict__? Explain."""
 print(toyota_camry.__dict__)
 #output: {'make': 'Toyota', 'model': 'Camry', 'year': 2022, 'color': 'Red', 'started': False, 'speed': 0, 'max_speed': 200}
 print(Car.__dict__)
-#output: {'__module__': '__main__', 'showroom': 'AutoSpace', '__init__': <function Car.__init__ at 0x72aa1a9ad4e0>, 'change_showroom': <classmethod(<function Car.change_showroom at 0x72aa1a9ad580>)>, '__dict__': <attribute '__dict__' of 'Car' objects>, '__weakref__': <attribute '__weakref__' of 'Car' objects>, '__doc__': None}
+#output: {'__module__': '__main__', 'showroom': 'NewShowroom', '__init__': <function Car.__init__ at 0x72aa1a9ad4e0>, 'change_showroom': <classmethod(<function Car.change_showroom at 0x72aa1a9ad580>)>, '__dict__': <attribute '__dict__' of 'Car' objects>, '__weakref__': <attribute '__weakref__' of 'Car' objects>, '__doc__': None}
 """The outputs are different from each other as toyota_camry.__dict__ prints only the 
 attributes specific to the toyota_camry instance, like make, model, year, etc. It does not 
 show methods or class-wide variables like showroom. Whereas Car.__dict__ shows the class 
